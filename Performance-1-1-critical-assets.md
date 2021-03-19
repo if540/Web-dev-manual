@@ -13,3 +13,4 @@
 - [reduce-javascript-payloads-with-code-splitting](https://web.dev/reduce-javascript-payloads-with-code-splitting/)
 - [render-blocking-resources](https://web.dev/render-blocking-resources/)
 - [critical-webpack-plugin](https://github.com/iGitScor/critical-webpack-plugin)
+- [Measure performance with the RAIL model](https://web.dev/rail/)
